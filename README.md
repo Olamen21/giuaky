@@ -8,6 +8,7 @@ Hiển thị thời gian hiện tại
 Chia sẻ thời gian qua các ứng dụng khác.
 
 📦 Cài đặt
+
 1️⃣ Yêu cầu
 Node.js >= 16
 
@@ -21,13 +22,13 @@ cd giuaky
 
 ▶️ Cách chạy ứng dụng
 
-Chạy trên trình duyệt
+Chạy trên trình duyệt: 
 ionic serve
 
-Chạy trên thiết bị Android
+Chạy trên thiết bị Android: 
 npx cap run android
 
-Chạy trên thiết bị iOS
+Chạy trên thiết bị iOS: 
 npx cap run ios
 
 Giao dien khi chay chuong trình
