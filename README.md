@@ -1,4 +1,34 @@
 # giuaky
+🚀 Tính năng chính
+
+Chụp ảnh bằng camera thiết bị.
+
+Hiển thị thời gian hiện tại 
+
+Chia sẻ thời gian qua các ứng dụng khác.
+
+📦 Cài đặt
+1️⃣ Yêu cầu
+Node.js >= 16
+
+Ionic CLI
+
+Capacitor 5
+
+2️⃣ Clone dự án
+git clone https://github.com/Olamen21/giuaky.git
+cd giuaky
+
+▶️ Cách chạy ứng dụng
+
+Chạy trên trình duyệt
+ionic serve
+
+Chạy trên thiết bị Android
+npx cap run android
+
+Chạy trên thiết bị iOS
+npx cap run ios
 
 Giao dien khi chay chuong trình
 
