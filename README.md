@@ -1,6 +1,7 @@
 # giuaky
 
-Giao di?n khi ch?y ch??ng trình
+Giao dien khi chay chuong trÃ¬nh
+![Image](https://github.com/user-attachments/assets/ccf344bb-acf1-4577-b6a0-c345535860ff)
 
 
 - Khi ch?n button Th?i gian hi?n t?i -> Hi?n th? th?i gian hi?n t?i 
