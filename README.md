@@ -1,1 +1,14 @@
 # giuaky
+
+Giao di?n khi ch?y ch??ng trình
+
+
+- Khi ch?n button Th?i gian hi?n t?i -> Hi?n th? th?i gian hi?n t?i 
+
+
+==> Ch?n chia s? th?i gian
+
+
+==> Ch?n ch?p ?nh
+ 
+
