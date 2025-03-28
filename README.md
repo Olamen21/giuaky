@@ -9,9 +9,12 @@ Giao dien khi chay chuong trình
 
 <img src="https://github.com/user-attachments/assets/52776050-b1f6-46f3-a8bb-ddbac8651b20" alt="..." width="250" /> <img src="https://github.com/user-attachments/assets/c3445062-8e69-4c4e-864d-a1ff7d01288a" alt="..." width="250" />
 
-==> Ch?n chia s? th?i gian
+==> Chon chia se thoi gian
+
+<img src="https://github.com/user-attachments/assets/fd9e7ba8-d44d-447f-a823-a92724ea342f" alt="..." width="250" />
 
 
-==> Ch?n ch?p ?nh
- 
+==> Chon chup anh
+
+<img src="https://github.com/user-attachments/assets/ddff0378-ba2f-4bfd-99a3-46a4db03cf02" alt="..." width="250" /> <img src="https://github.com/user-attachments/assets/039499d6-53ee-4874-9660-ee8e839b1a6e" alt="..." width="250" /> <img src="https://github.com/user-attachments/assets/923a609f-c380-403d-8d6a-a63164f64b4b" alt="..." width="250" /> 
 
